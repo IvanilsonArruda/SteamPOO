@@ -1,0 +1,8 @@
+SteamPOO.class
+CategoriaDeJogo.class
+JogoJaExisteException.class
+JogoInexistenteException.class
+SteamPOOHashTest.class
+org\example\App.class
+SteamPOOHash.class
+Jogo.class

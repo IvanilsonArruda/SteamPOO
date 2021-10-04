@@ -1,0 +1,4 @@
+public enum CategoriaDeJogo {
+    ACAO,ARCADE,AVENTURA,CORRIDA,GUERRA,LUTA,TERROR ;
+
+}
